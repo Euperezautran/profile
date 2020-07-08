@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantarell&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+body {
+  background-color:#eeecda;
+  font-family:'Cantarell', sans-serif;;
+  color:#b83b5e;
+  font-size:16px;
+  line-height:1.6;
+}
+img{
+  border-radius: 50%;
+}
+
+h1{
+  font-family:'Architects Daughter', cursive;
+  color: #f08a5d;
+  font-size:30px;
+  line-height:1;
+}
+h2 {
+  font-family:'Architects Daughter', cursive;
+  color: #f08a5d;
+  font-size:25px;
+  line-height:1;
+}
+.btn-red{
+  text-decoration: none;
+  color:#eeecda;
+  font-size: 18px;
+  padding: 16px;
+  border-radius: 8px;
+  margin-top: 50px;
+  background-color:#6a2c70;
+  opacity: 0.8;
+}
+.btn-red:hover{
+
+  color:#f08a5d;
+  opacity:1;
+
+}
+.btn-r:hover{
+  color:#f08a5d;
+}
+.container {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+.card {
+  background:#ffffff;
+  border-radius:4px;
+  box-shadow:0px 10px 30px rgba(0,0,0,02) ;
+  padding: 35px;
+  margin:10px 0px;
+
+}
+.card li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+ul {
+  padding: 0;
+}
